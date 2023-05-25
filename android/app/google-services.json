@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "335461718945",
+    "project_id": "macjam1",
+    "storage_bucket": "macjam1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335461718945:android:f7c31e8833b1267316c9e0",
+        "android_client_info": {
+          "package_name": "com.example.macjam1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60ocsvgP8J_iLlY858QddTLhNSOkq518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335461718945-999dv9t2e8q6126tl53mknj9i6rop9lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macjam1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335461718945:android:1217e6fe8f39b51d16c9e0",
+        "android_client_info": {
+          "package_name": "com.example.macjam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60ocsvgP8J_iLlY858QddTLhNSOkq518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335461718945-999dv9t2e8q6126tl53mknj9i6rop9lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macjam1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335461718945:android:3cad989b6ac5c1a916c9e0",
+        "android_client_info": {
+          "package_name": "com.example.macjam3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60ocsvgP8J_iLlY858QddTLhNSOkq518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335461718945-999dv9t2e8q6126tl53mknj9i6rop9lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macjam1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335461718945:android:f90f19389353863316c9e0",
+        "android_client_info": {
+          "package_name": "com.example.macjam4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60ocsvgP8J_iLlY858QddTLhNSOkq518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335461718945-999dv9t2e8q6126tl53mknj9i6rop9lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macjam1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

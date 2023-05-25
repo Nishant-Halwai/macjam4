@@ -67,6 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '335461718945',
     projectId: 'macjam1',
     storageBucket: 'macjam1.appspot.com',
+    androidClientId: '335461718945-5ijtuu1oqhksueap1c533mtg1uk47vjk.apps.googleusercontent.com',
     iosClientId: '335461718945-ddqhh7f1mv7aau7k7g7t7bj126koejan.apps.googleusercontent.com',
     iosBundleId: 'com.example.macjam4',
   );
@@ -77,6 +78,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '335461718945',
     projectId: 'macjam1',
     storageBucket: 'macjam1.appspot.com',
+    androidClientId: '335461718945-5ijtuu1oqhksueap1c533mtg1uk47vjk.apps.googleusercontent.com',
     iosClientId: '335461718945-ojuai4dbm8b16f8r1ejkh847qjunptu3.apps.googleusercontent.com',
     iosBundleId: 'com.example.macjam4.RunnerTests',
   );

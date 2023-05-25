@@ -122,6 +122,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "335461718945-5ijtuu1oqhksueap1c533mtg1uk47vjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macjam4",
+            "certificate_hash": "961796e9f2cadf0ccb254ec8087cb7599ac6e184"
+          }
+        },
+        {
           "client_id": "335461718945-bk984mee9p8efdmar6kd9rdk7kamie34.apps.googleusercontent.com",
           "client_type": 3
         }
